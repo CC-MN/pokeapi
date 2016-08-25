@@ -1,1 +1,1 @@
-web: python pokemon_v2/api.py
+web: python ez_setup.py
