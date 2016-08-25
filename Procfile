@@ -1,1 +1,1 @@
-web: python ez_setup.py
+web: python manage.py shell --settings=config.local
