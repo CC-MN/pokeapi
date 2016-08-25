@@ -1,1 +1,1 @@
-web: python manage.py shell --settings=config.local
+web: gunicorn app:app
