@@ -1,1 +1,1 @@
-web: python manage.py
+web: gunicorn pokemon_v2:app
